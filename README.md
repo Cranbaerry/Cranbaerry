@@ -5,7 +5,8 @@
 ![](https://img.shields.io/badge/Languages-English%20%26%20Bahasa-orange)
 ![](https://img.shields.io/badge/Uptime-99.9%25-green)
 
-Developer of Discord Bot applications, mini projects, etc. 
+Developer of Discord Bot applications, variety projects, etc. 
+I have taken a newfound in programming when I was in Middle Shool and self-taught myself since then.
 
 ## Summary
 
