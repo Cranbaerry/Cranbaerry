@@ -5,8 +5,9 @@
 ![](https://img.shields.io/badge/Languages-English%20%26%20Bahasa-orange)
 ![](https://img.shields.io/badge/Uptime-99.9%25-green)
 
-Developer of Discord Bot applications, variety projects, etc. 
-I have taken a newfound in programming when I was in Middle Shool and self-taught myself since then.
+###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
+I have taken a newfound in programming when I was in Middle Shool and self-taught myself since then.<br />
+I am currently pursuing my bachelor's Computer Science degree in University Student of Bina Nusantara.
 
 ## Summary
 
@@ -17,9 +18,8 @@ I have taken a newfound in programming when I was in Middle Shool and self-taugh
 - **Birthday**: October 15th, 1997
 - **Love**: My family, my lover, and my cat 😍
 - **Like**: PC, Music, Anime, Comic, etc.
-
-<br />
-<br />
+- **Games**: Overwatch, Valorant
+- **Foods**: Sushi, Tom Yam, Satay Padang
 <br />
 
 ## Skills
@@ -36,7 +36,7 @@ I have taken a newfound in programming when I was in Middle Shool and self-taugh
   - jQuery
   - Vue.js (Learning)
   - Nuxt.js (Learning)
-- C++
+- C++ (Learning)
 - NodeJS
 - Python
 
