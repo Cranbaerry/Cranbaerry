@@ -20,6 +20,7 @@ I am currently pursuing my bachelor's Computer Science degree in University Stud
 - **Like**: PC, Music, Anime, Comic, etc.
 - **Games**: Overwatch, Valorant
 - **Foods**: Sushi, Tom Yam, Satay Padang
+- **Favourite Language**: Python
 <br />
 
 ## Skills
