@@ -7,7 +7,6 @@
 
 ###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
 I have taken a newfound in programming when I was in Middle Shool and self-taught myself since then.<br />
-I am currently pursuing my bachelor's Computer Science degree in University Student of Bina Nusantara.
 
 ## Summary
 
@@ -17,7 +16,7 @@ I am currently pursuing my bachelor's Computer Science degree in University Stud
 
 - **Birthday**: October 15th, 1997
 - **Love**: My family, my lover, and my cat 😍
-- **Like**: PC, Music, Anime, Comic, etc.
+- **Interests**: PC, Music, Anime, Comic, etc.
 - **Games**: Overwatch, Valorant
 - **Foods**: Sushi, Tom Yam, Satay Padang
 - **Favourite Language**: Python
