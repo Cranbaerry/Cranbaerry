@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Uptime-99.9%25-green)
 
 ###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
-I have taken a newfound in programming when I was in Middle Shool and self-taught myself since then.<br />
+I have taken a newfound interest in programming when I was in Middle Shool and self-taught myself since then.<br />
 
 ## Summary
 
