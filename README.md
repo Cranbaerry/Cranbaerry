@@ -14,7 +14,6 @@ I have taken a newfound interest in programming when I was in Middle Shool and s
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mikami382&count_private=true&show_icons=true&hide_rank=true&theme=radical" />
 </a>
 
-- **Birthday**: October 15th, 1997
 - **Love**: My family, my lover, and my cat 😍
 - **Interests**: PC, Music, Anime, Comic, etc.
 - **Games**: Overwatch, Valorant
