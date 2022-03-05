@@ -54,6 +54,7 @@ I also want to try other things...!
 - **YouTube**: [cronbaerry](https://www.youtube.com/channel/UCrC9LeC0sRrvHBMOvnnqIqg)
 - **Twitch**: [cronbaerry](https://twitch.tv/cronbaerry)
 - **HackerRank**: [rainy3414](https://www.hackerrank.com/rainy3414)
+- **LinkedIn**: [Naufal](https://www.linkedin.com/in/naufal-h-b6068397/)
 
 ---
 
