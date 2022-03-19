@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Uptime-99.9%25-green)
 
 ###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
-I have taken a newfound interest in programming when I was in Middle Shool and self-taught myself since then.<br />
+Full-time Computer Science Student specializing in AI. Expected Graduation in 2025.
 
 ## Summary
 
@@ -30,31 +30,24 @@ I have taken a newfound interest in programming when I was in Middle Shool and s
 </a>
 
 - PHP
+  - Laravel
+- CSS 
+  - Bootstrap
 - Java
 - JavaScript
   - jQuery
-  - Vue.js (Learning)
-  - Nuxt.js (Learning)
+  - ReactJS (Learning)
+  - Vue (Learning)
 - C++ (Learning)
-- NodeJS
 - Python
-
-I also want to try other things...!
 
 ("Most Used Languages" image does not include organization contributions)
 
 ## Contacts
 
-- **Email**: [naufalh39@gmail.com](mailto:naufalh39@gmail.com)
+- **Email**: [naufal.hardiansyah@binus.edu](mailto:naufal.hardiansyah@binus.edu)
 - **Discord**: [rainy#3414](https://discord.com/users/653989603413590057)
-
-## Links
-
-- **Steam**: [Cranberry](https://steamcommunity.com/id/reminderofmypast)
-- **YouTube**: [cronbaerry](https://www.youtube.com/channel/UCrC9LeC0sRrvHBMOvnnqIqg)
-- **Twitch**: [cronbaerry](https://twitch.tv/cronbaerry)
-- **HackerRank**: [rainy3414](https://www.hackerrank.com/rainy3414)
-- **LinkedIn**: [Naufal](https://www.linkedin.com/in/naufal-h-b6068397/)
+- **Link Tree**: https://linktr.ee/cronbaerry
 
 ---
 
