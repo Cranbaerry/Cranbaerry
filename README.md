@@ -48,7 +48,7 @@ Expected Graduation in 2025.
 
 - **Email**: [naufal.hardiansyah@binus.edu](mailto:naufal.hardiansyah@binus.edu)
 - **Discord**: [rainy#3414](https://discord.com/users/653989603413590057)
-- **Linktree**: https://linktr.ee/cronbaerry
+- **Linktree**: [cronbaerry](https://linktr.ee/cronbaerry)
 
 ---
 
