@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Uptime-99.9%25-green)
 
 ###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
-Full-time Computer Science Student specializing in artificial intelligence (AI). 
+Full-time Computer Science Student specializing in Artificial Intelligence (AI). 
 Expected Graduation in 2025.
 
 ## Summary
