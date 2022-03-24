@@ -7,7 +7,6 @@
 
 ###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
 Full-time Computer Science Student specializing in Artificial Intelligence (AI). 
-Expected Graduation in 2025.
 
 ## Summary
 
