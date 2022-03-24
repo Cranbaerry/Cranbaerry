@@ -1,4 +1,4 @@
-# Cranberry - Mikami382 👋
+# Cranberry 👋
 
 ![](https://img.shields.io/badge/build-passed-green)
 ![](https://img.shields.io/badge/Status-up-green)
