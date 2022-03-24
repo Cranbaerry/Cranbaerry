@@ -12,7 +12,7 @@ Expected Graduation in 2025.
 ## Summary
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mikami382&count_private=true&show_icons=true&hide_rank=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cranbaerry&count_private=true&show_icons=true&hide_rank=true&theme=radical" />
 </a>
 
 - **Love**: My family, my lover, and my cat 😍
@@ -27,7 +27,7 @@ Expected Graduation in 2025.
 ### Languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikami382&count_private=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cranbaerry&count_private=true&theme=radical" />
 </a>
 
 - PHP
