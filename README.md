@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Uptime-99.9%25-green)
 
 ###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
-Full-time Computer Science Student specializing in Artificial Intelligence (AI). 
+Full-time Computer Science Student. 
 
 ## Summary
 
@@ -14,11 +14,9 @@ Full-time Computer Science Student specializing in Artificial Intelligence (AI).
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cranbaerry&count_private=true&show_icons=true&hide_rank=true&theme=radical" />
 </a>
 
-- **Love**: My family, my lover, and my cat 😍
 - **Interests**: PC, Music, Anime, Comic, etc.
 - **Games**: Overwatch, Valorant
-- **Foods**: Sushi, Tom Yam, Satay Padang
-- **Favourite Language**: Python
+- **Favourite Language**: PHP, Python
 <br />
 
 ## Skills
