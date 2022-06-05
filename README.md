@@ -5,12 +5,13 @@
 ![](https://img.shields.io/badge/Languages-English%20%26%20Bahasa-orange)
 ![](https://img.shields.io/badge/Uptime-99.9%25-green)
 
-###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
-Full-time Computer Science Student, part-time associate developer @BINUS IT Division. 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cranbaerry&count_private=true&show_icons=true&hide_rank=true&theme=radical" />
 </a>
+
+###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
+Full-time Computer Science Student, part-time associate developer @BINUS IT Division. 
+
 
 - **Interests**: PC, Music, Anime, Comic, etc.
 - **Games**: Overwatch, Valorant
