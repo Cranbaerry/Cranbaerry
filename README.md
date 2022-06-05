@@ -12,7 +12,7 @@
 ###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
 Computer Science Student and Associate Developer @BINUS IT Division. 
 
-- **Interests**: Artificial Intelligence, Web Design, Bots
+- **Interests**: Artificial Intelligence, Web Developments, Mobile App, Bots
 - **Code Editors**: VSCode, PyCharm, PHPStorm
 - **Favourite Languages**: PHP & Python
 <br/>
