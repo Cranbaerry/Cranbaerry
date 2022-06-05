@@ -35,7 +35,9 @@ Full-time Computer Science Student and part-time associate developer @BINUS IT D
   - jQuery
   - ReactJS (Learning)
   - Vue (Learning)
-- C++ (Learning)
+- TypeScript
+  - React Native (Learning)
+- C++
 - Python
 
 ("Most Used Languages" image does not include organization contributions)
