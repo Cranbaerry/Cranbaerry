@@ -8,8 +8,6 @@
 ###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
 Full-time Computer Science Student, part-time associate developer @BINUS IT Division. 
 
-## Summary
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cranbaerry&count_private=true&show_icons=true&hide_rank=true&theme=radical" />
 </a>
