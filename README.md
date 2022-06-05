@@ -15,6 +15,7 @@ Computer Science Student and Associate Developer @BINUS IT Division.
 - **Interests**: Artificial Intelligence, Web Design, Bots
 - **Code Editors**: VSCode, PyCharm, PHPStorm
 - **Favourite Languages**: PHP & Python
+<br/>
 
 ## Skills
 
