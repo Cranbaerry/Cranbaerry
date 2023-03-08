@@ -45,6 +45,7 @@ Computer Science Student and Junior Software Engineer @BINUS IT Division.
 
 - **Email**: [naufal.hardiansyah@binus.edu](mailto:naufal.hardiansyah@binus.edu)
 - **Discord**: [rainy#3414](https://discord.com/users/653989603413590057)
+- **LinkedIn**: [Naufal H](https://www.linkedin.com/in/naufal-h)
 - **Linktree**: [cronbaerry](https://linktr.ee/cronbaerry)
 
 ---
