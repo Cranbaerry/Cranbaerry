@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cranberry 👋
 
-## Getting Started
+![](https://img.shields.io/badge/build-passed-green)
+![](https://img.shields.io/badge/Status-up-green)
+![](https://img.shields.io/badge/Languages-English%20%26%20Bahasa-orange)
+![](https://img.shields.io/badge/Uptime-99.9%25-green)
 
-First, run the development server:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cranbaerry&count_private=true&show_icons=true&hide_rank=true&theme=radical" />
+</a>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+###### Developer of Discord Bot applications, automations, variety projects, etc.<br />
+Computer Science Student and Junior Software Engineer @BINUS IT Division. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Interests**: Artificial Intelligence, Web Developments, Mobile App, Bots
+- **Code Editors**: VSCode, PyCharm, PHPStorm
+- **Favourite Languages**: PHP & Python
+<br/>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Skills
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Languages
 
-## Learn More
+<a href="https://github.com/anuraghazra/github-readme-stats" >
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cranbaerry&count_private=true&theme=radical" />
+</a>
 
-To learn more about Next.js, take a look at the following resources:
+- PHP
+  - Laravel
+- CSS 
+  - Bootstrap
+- Java
+- JavaScript
+  - jQuery
+  - ReactJS (Learning)
+  - Vue (Learning)
+- TypeScript
+  - React Native (Learning)
+- C++
+- Python
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+("Most Used Languages" image does not include organization contributions)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contacts
 
-## Deploy on Vercel
+- **Email**: [naufal@hardiansyah.m](mailto:naufal@hardiansyah.me)
+- **Discord**: [flatpaddy](https://discord.com/users/653989603413590057)
+- **LinkedIn**: [Naufal H](https://www.linkedin.com/in/naufal-h)
+- **Website**: [hardiansyah.me](https://naufal.hardiansyah.me)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## A week of coding langage & time
+
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display:block;width:100%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mikami382&layout=compact&theme=radical&hide_title=true" width="100%" />
+</a>
