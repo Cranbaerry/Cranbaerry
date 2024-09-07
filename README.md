@@ -43,7 +43,7 @@ Computer Science Student and Junior Software Engineer @BINUS IT Division.
 
 ## Contacts
 
-- **Email**: [naufal@hardiansyah.m](mailto:naufal@hardiansyah.me)
+- **Email**: [naufal@hardiansyah.me](mailto:naufal@hardiansyah.me)
 - **Discord**: [flatpaddy](https://discord.com/users/653989603413590057)
 - **LinkedIn**: [Naufal H](https://www.linkedin.com/in/naufal-h)
 - **Website**: [hardiansyah.me](https://naufal.hardiansyah.me)
