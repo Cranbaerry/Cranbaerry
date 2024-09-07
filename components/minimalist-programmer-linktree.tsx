@@ -7,13 +7,13 @@ export interface LinkItem {
   name: string;
   icon: ReactNode;
   url: string;
-  pictureUrl: string;
 }
 
 export interface LinkProps {
   name: string;
   role: string;
   links: LinkItem[];
+  pictureUrl: string;
 }
 
 export const MinimalistProgrammerLinktree = ({ name, role, links, pictureUrl }: LinkProps) => {
