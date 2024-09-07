@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next lint --fix && next dev",
-    "build": "next lint --fix && next build",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint --fix"
   },

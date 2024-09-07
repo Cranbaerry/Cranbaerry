@@ -1,53 +1,32 @@
 'use client'
 
-import { useState, useEffect, ReactNode } from 'react'
+import { ReactNode } from 'react'
 import { motion } from 'framer-motion'
 
 export interface LinkItem {
-  name: string;
-  icon: ReactNode;
-  url: string;
+    name: string;
+    icon: ReactNode;
+    url: string;
 }
 
 export interface LinkProps {
-  name: string;
-  role: string;
-  links: LinkItem[];
-  pictureUrl: string;
+    name: string;
+    role: string;
+    links: LinkItem[];
+    pictureUrl: string;
 }
 
 export const MinimalistProgrammerLinktree = ({ name, role, links, pictureUrl }: LinkProps) => {
-    const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 })
+    return (<div>
+        <div className="outerSpace">
+            <div className="tileContainer">
+                {Array.from({ length: 1500 }).map((_, index) => (
+                    <div key={index} className="tile"></div>
+                ))}
+            </div>
+        </div>
 
-    useEffect(() => {
-        const updateMousePosition = (e: MouseEvent) => {
-            setMousePosition({ x: e.clientX, y: e.clientY })
-        }
-        window.addEventListener('mousemove', updateMousePosition)
-        return () => {
-            window.removeEventListener('mousemove', updateMousePosition)
-        }
-    }, [])
-
-
-    return (
         <div className="min-h-screen flex items-center justify-center bg-black p-4">
-            <motion.div
-                className="absolute inset-0 z-0"
-                animate={{
-                    background: [
-                        'radial-gradient(circle at 0% 0%, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0) 50%)',
-                        'radial-gradient(circle at 100% 100%, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0) 50%)',
-                    ],
-                }}
-                transition={{ duration: 5, repeat: Infinity, repeatType: 'reverse' }}
-            />
-            <motion.div
-                className="absolute inset-0 z-10"
-                animate={{
-                    background: `radial-gradient(circle at ${mousePosition.x}px ${mousePosition.y}px, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0) 20%)`,
-                }}
-            />
             <div className="z-20 w-full max-w-md">
                 <motion.div
                     initial={{ scale: 0.5, opacity: 0 }}
@@ -103,5 +82,8 @@ export const MinimalistProgrammerLinktree = ({ name, role, links, pictureUrl }: 
                 </div>
             </div>
         </div>
+    </div>
+
+
     )
 }
