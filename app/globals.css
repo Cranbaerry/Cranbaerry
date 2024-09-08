@@ -134,7 +134,7 @@ body {
 
 .tileContainer:before {
   z-index: 2;
-  background-image: url("/assets/plus-pattern-center.png");
+  background-image: url("/assets/plus-pattern-center.webp");
   background-size: 5%;
   background-repeat: repeat;
   opacity: 0.25;
