@@ -1,4 +1,4 @@
-# Cranberry 👋
+# Hi, I'm Naufal 👋
 
 ![](https://img.shields.io/badge/build-passed-green)
 ![](https://img.shields.io/badge/Status-up-green)
