@@ -17,7 +17,7 @@ export interface LinkProps {
 }
 
 export const MinimalistProgrammerLinktree = ({ name, role, links, pictureUrl }: LinkProps) => {
-    return (<div>
+    return (<div className="relative">
         <div className="outerSpace">
             <div className="tileContainer">
                 {Array.from({ length: 1500 }).map((_, index) => (
