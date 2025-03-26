@@ -3,7 +3,7 @@ import { MinimalistProgrammerLinktree, LinkItem } from "@/components/minimalist-
 export default function Home() {
     const name = "Naufal Hardiansyah";
     const role = "Full Stack Developer | ML Enthusiast";
-    const pictureUrl = '/assets/profile.jpg';
+    const pictureUrl = '/assets/profile2.jpg';
 
     const links: LinkItem[] = [
         { name: 'LinkedIn', icon: <Linkedin />, url: 'https://www.linkedin.com/in/naufal-h/' },
